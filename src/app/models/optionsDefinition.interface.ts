@@ -4,4 +4,6 @@ export interface OptionsDefinition {
     description: string;
     controlType: string;
     options: OptionsDefinition[]
+    starterPrice: number;
+    monthlyPrice: number;
 }
