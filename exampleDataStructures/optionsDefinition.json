@@ -22,7 +22,7 @@
                     "description": null,
                     "comment": null,
                     "controlType": "radio",
-                    "straterPrice": null,
+                    "straterPrice": 200,
                     "monthlyPrice": null,
                     "options": []
                 },
@@ -32,7 +32,7 @@
                     "description": null,
                     "comment": null,
                     "controlType": "radio",
-                    "straterPrice": null,
+                    "straterPrice": 200,
                     "monthlyPrice": null,
                     "options": []
                 }
