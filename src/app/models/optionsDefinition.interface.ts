@@ -3,7 +3,7 @@ export interface OptionsDefinition {
     name: string;
     description: string;
     controlType: string;
-    options: OptionsDefinition[]
     starterPrice: number;
     monthlyPrice: number;
+    options: OptionsDefinition[]
 }
