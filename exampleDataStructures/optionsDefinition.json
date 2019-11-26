@@ -1,0 +1,52 @@
+{
+    "id": 1,
+    "name": "Wybierz typ umowy",
+    "description": null,
+    "comment": null,
+    "controlType": "radio",
+    "straterPrice": null,
+    "monthlyPrice": null,
+    "options": [
+        {
+            "id": 2,
+            "name": "Umowa min 6 m-cy",
+            "description": null,
+            "comment": null,
+            "controlType": "radio",
+            "straterPrice": null,
+            "monthlyPrice": null,
+            "options": [
+                {
+                    "id": 4,
+                    "name": "Światłowód 200 pln aktywacja",
+                    "description": null,
+                    "comment": null,
+                    "controlType": "radio",
+                    "straterPrice": null,
+                    "monthlyPrice": null,
+                    "options": []
+                },
+                {
+                    "id": 5,
+                    "name": "Radio 200 pln aktywacja",
+                    "description": null,
+                    "comment": null,
+                    "controlType": "radio",
+                    "straterPrice": null,
+                    "monthlyPrice": null,
+                    "options": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Umowa min 6 m-cy",
+            "description": null,
+            "comment": null,
+            "controlType": "radio",
+            "straterPrice": null,
+            "monthlyPrice": null,
+            "options": []
+        }
+    ]
+}
